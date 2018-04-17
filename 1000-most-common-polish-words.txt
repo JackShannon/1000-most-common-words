@@ -1,4 +1,3 @@
-Polish
 jak
 I
 jego
@@ -376,7 +375,7 @@ możliwe
 samolot
 siona
 suche
-zastanawiam się,
+zastanawiam się
 śmiech
 tysiąc
 temu
@@ -526,7 +525,7 @@ mówić
 waga
 ogólnie
 lód
-względu na to,
+względu na to
 krąg
 para
 zawierać
@@ -616,7 +615,7 @@ napisał
 nasion
 ton
 dołączyć
-sugerują,
+sugerują
 czyste
 przerwa
 pani
@@ -781,7 +780,7 @@ znaków
 owad
 złapany
 okres
-wskazują,
+wskazują
 Radio
 zabrał
 atom

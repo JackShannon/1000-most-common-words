@@ -1,4 +1,3 @@
-Uzbek
 sifatida
 men
 uning
@@ -352,7 +351,7 @@ ko’cha
 inch
 ko’paytirib
 hech nima
-Albatta,
+Albatta
 qolish
 g’ildirak
 to’liq
@@ -526,7 +525,7 @@ gapirish
 vazn
 umumiy
 muz
-qat’i nazar,
+qat’i nazar
 to’garak
 juft
 o’z ichiga oladi

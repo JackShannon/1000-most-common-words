@@ -1,4 +1,3 @@
-Kurdish
 dema
 ez
 bûyin
@@ -422,7 +421,7 @@ rehetî
 serrast
 kêrhat
 tan
-kirin,
+kirin
 çelengî
 ajotin
 rawesta
@@ -627,7 +626,7 @@ nepixandin
 rûn
 xwîn
 pêbûn
-mezin dibû,
+mezin dibû
 ji sedî
 lihevxitin
 kom

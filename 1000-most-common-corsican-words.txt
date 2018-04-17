@@ -1,4 +1,3 @@
-Corsican
 cum’è
 I
 u so
@@ -210,7 +209,7 @@ risposta
 la scola
 crisciri
 studiu
-ancora,
+ancora
 amparà
 pianta
 cupertine, iamme
@@ -264,7 +263,7 @@ firmavanu
 una volta
 suttastratu
 state à sente
-cavallo,
+cavallo
 verso
 di sicuru
 fighjulà
@@ -427,7 +426,7 @@ biddizzi
 fundale
 firmonu
 cuntena
-fronte,
+fronte
 insegni
 settimana
 finali
@@ -691,7 +690,7 @@ fondu
 chiavi
 ferru
 sìngulu
-bastone,
+bastone
 appartamentu
 venti
 coghju

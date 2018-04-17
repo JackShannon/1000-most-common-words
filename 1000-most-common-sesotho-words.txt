@@ -1,4 +1,3 @@
-Sesotho
 e le
 ke
 hae
@@ -817,7 +816,7 @@ tšepe
 itšetleha
 nama
 tsoaetsa
-tube,
+tube
 tummeng
 ya dollar
 molapo

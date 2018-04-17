@@ -1,4 +1,3 @@
-Latvian
 kā
 es
 viņa
@@ -162,7 +161,7 @@ pēc tam
 viņiem
 rakstīt
 būtu
-piemēram,
+piemēram
 tā
 šie
 viņai

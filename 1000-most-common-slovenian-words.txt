@@ -1,4 +1,3 @@
-Slovenian
 kot
 I
 njegov
@@ -287,7 +286,7 @@ papir
 skupina
 vedno
 glasba
-tisti,
+tisti
 oboje
 znamka
 pogosto
@@ -376,7 +375,7 @@ mogoče
 plane
 Stead je
 suha
-sprašujem se,
+sprašujem se
 smeh
 tisoč
 nazaj
@@ -526,7 +525,7 @@ govorijo
 teža
 splošno
 ice
-glede na to,
+glede na to
 krog
 par
 vključujejo
@@ -593,7 +592,7 @@ milijonov
 nosi
 konča
 srečen
-upam,
+upam
 cvet
 oblekli
 čudno
@@ -726,7 +725,7 @@ hribu
 varna
 cat
 stoletje
-menijo,
+menijo
 tip
 pravo
 bit

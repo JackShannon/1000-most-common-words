@@ -1,8 +1,7 @@
-Hausa
 kamar yadda
 Ina
 da
-cewa,
+cewa
 ya
 shi ne
 domin
@@ -55,7 +54,7 @@ uku
 so
 air
 da kyau
-har ila yau,
+har ila yau
 wasa
 small
 karshen
@@ -158,7 +157,7 @@ your
 hanyar
 game da
 da yawa
-to,
+to
 da su
 rubuta
 zai
@@ -507,7 +506,7 @@ brother
 kwai
 tafiya
 cell
-yi ĩmãni,
+yi ĩmãni
 watakila
 sama
 kwatsam

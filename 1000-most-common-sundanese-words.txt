@@ -1,4 +1,3 @@
-Sundanese
 siga
 abdi
 na
@@ -894,7 +893,7 @@ gerakan
 jalan
 barang encer
 log
-Hartina,
+Hartina
 quotient
 huntu
 kerang

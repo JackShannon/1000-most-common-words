@@ -1,4 +1,3 @@
-Czech
 as
 já
 jeho
@@ -287,7 +286,7 @@ papír
 skupina
 vždy
 music
-ty,
+ty
 jak
 značka
 často
@@ -342,7 +341,7 @@ na jih
 problém
 kus
 řekl
-věděl,
+věděl
 pas
 od
 horní
@@ -376,7 +375,7 @@ možné
 letadlo
 Místo toho
 suché
-Zajímalo by mě,
+Zajímalo by mě
 smích
 tisíc
 před
@@ -501,7 +500,7 @@ oznámení
 hlas
 energie
 lov
-pravděpodobné,
+pravděpodobné
 postel
 bratr
 vejce
@@ -616,7 +615,7 @@ napsal
 semínko
 tón
 připojit se
-naznačují,
+naznačují
 čistý
 přestávka
 dáma
@@ -794,7 +793,7 @@ kost
 zábradlí
 představte si
 poskytovat
-souhlasí s tím,
+souhlasí s tím
 tedy
 jemný
 žena

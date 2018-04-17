@@ -1,4 +1,3 @@
-Lithuanian
 kaip
 Aš
 jo
@@ -342,7 +341,7 @@ gaisro
 problema
 gabalas
 sakė
-žinojo,
+žinojo
 pereiti
 nuo
 viršus
@@ -444,7 +443,7 @@ stiprus
 ypatingą
 protas
 už
-aišku,
+aišku
 uodega
 gaminti
 faktas
@@ -501,7 +500,7 @@ pranešimas
 balsas
 energija
 medžioklė
-tikėtina,
+tikėtina
 lova
 brolis
 kiaušinis

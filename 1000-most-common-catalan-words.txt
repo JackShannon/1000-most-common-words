@@ -1,4 +1,3 @@
-Catalan
 com
 I
 seva
@@ -137,7 +136,7 @@ ajudar
 sota
 línia
 diferir
-al seu torn,
+al seu torn
 causa
 molt
 significarà
@@ -158,7 +157,7 @@ seva
 camí
 sobre
 molts
-a continuació,
+a continuació
 ells
 escriure
 faria
@@ -795,7 +794,7 @@ ferrocarril
 imaginar
 proporcionar
 acord
-per tant,
+per tant
 suau
 dona
 capità
@@ -957,7 +956,7 @@ vendre
 empresa
 restar
 esdeveniment
-particular,
+particular
 acord
 nedar
 termini

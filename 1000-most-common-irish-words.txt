@@ -1,4 +1,3 @@
-Irish
 mar
 mé
 a
@@ -131,7 +130,7 @@ ach
 fhoirm
 abairt
 mór
-I mo thuairimse,
+I mo thuairimse
 rá
 cabhrú
 íseal

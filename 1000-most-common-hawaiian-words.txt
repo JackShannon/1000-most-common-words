@@ -1,10 +1,9 @@
-Hawaiian
 ka mea
 kona
 ia
 I
 ia
-no ka mea,
+no ka mea
 maluna o
 ua
 me
@@ -18,14 +17,14 @@ mai
 ma
 anal
 olelo
-aka,
+aka
 ka mea
 kekahi
 e like me
 ka mea
 ia
 oe
-ai ole ia,
+ai ole ia
 i
 ka
 a
@@ -158,7 +157,7 @@ oukou
 ala
 e pili ana i
 he nui
-alaila,
+alaila
 ia lakou
 kakau
 makemake
@@ -266,7 +265,7 @@ kumu
 lohe
 ka lio
 e oki ai
-paa,
+paa
 kiai
 kala like ‘ole
 maka
@@ -434,7 +433,7 @@ hope loa
 haawi
 ʻōmaʻomaʻo
 oh la
-poe ola,
+poe ola
 hoʻomōhala
 moana
 pumehana
@@ -535,7 +534,7 @@ syllable
 manaʻo
 Luna nui
 poepoe
-aka,
+aka
 hawewe
 papa
 Puʻuwai
@@ -546,7 +545,7 @@ hula
 engine
 wahi
 lima
-ka laula,
+ka laula
 holo
 mea
 mahele
@@ -581,7 +580,7 @@ bipi
 oihana
 lihi
 hoailona
-makaikai.
+makaikai
 i hala iho nei
 pahee
 leʻaleʻa
@@ -644,7 +643,7 @@ haule iho la
 pono
 kahe ana
 maikai
-pali,
+pali
 ohi
 hoola
 hooponopono
@@ -717,7 +716,7 @@ e
 paa ana
 lauoho
 kakau
-Kapena Kuke,
+Kapena Kuke
 papahele
 kekahi
 result
@@ -856,7 +855,7 @@ mauka
 mahele
 pepa
 waiwai
-i ka lokomaikaiia,
+i ka lokomaikaiia
 hoʻohui
 lāʻau kū
 ke lilo aku
@@ -894,7 +893,7 @@ ka noi
 ala
 wai
 mōʻaukala
-ia mea,
+ia mea
 puu
 niho
 iwi

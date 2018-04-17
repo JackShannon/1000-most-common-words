@@ -1,4 +1,3 @@
-Basque Words
 bezala
 I
 bere
@@ -73,7 +72,7 @@ hemen
 muztioa
 big
 handiko
-hala nola,
+hala nola
 jarraitu
 ekintza
 zergatik
@@ -163,7 +162,7 @@ horiek
 idatzi
 iba
 bezala
-beraz,
+beraz
 horiek
 bere
 luzea
@@ -529,7 +528,7 @@ izotz
 Gaia
 zirkulua
 bikotea
-besteak beste,
+besteak beste
 arraila
 silaba
 sentitu
@@ -913,7 +912,7 @@ eskerrik
 adarra
 partidu
 atzizkia
-batez ere,
+batez ere
 piku
 beldur
 handi
